@@ -7,9 +7,9 @@ The system connects blood donors and recipients while helping manage blood inven
 - Simple, user-friendly interface
 - Secure environment variable support (`.env`)
 ## Tech Stack
--Frontend - HTML, CSS, JavaScript, Bootstrap(Framework)
--Backend - Django(Python)
--Database - MYSQL
+- Frontend - HTML, CSS, JavaScript, Bootstrap(Framework)
+- Backend - Django(Python)
+- Database - MYSQL
 ## Learning Outcomes
 - Gained hands-on experience building a full-stack web application with Django and MySQL
 - Learned how to structure a professional project with clear separation of apps, static files, and environment variables
