@@ -14,6 +14,8 @@ The system connects blood donors and recipients while helping manage blood inven
 - Gained hands-on experience building a full-stack web application with Django and MySQL
 - Learned how to structure a professional project with clear separation of apps, static files, and environment variables
 - Implemented secure credential management using `.env` files and `.gitignore` for repository hygiene
+## Author 
+Jasmita Phukan | Software Development Enthusiast
 ## Screenshots
 <img width="1506" height="1173" alt="Screenshot 2025-12-19 190055" src="https://github.com/user-attachments/assets/cdd38ce6-f268-4cf1-9511-9fa4253c0ef3" />
 <img width="2232" height="1157" alt="Screenshot 2025-12-19 185750" src="https://github.com/user-attachments/assets/d76d1760-7d77-4f24-8eaf-c7245438bf45" />
